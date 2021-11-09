@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto-Medium';
+    font-weight: 500;
+    src: url('../font/Roboto-Medium.ttf') format('trutype');
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    font-weight: 400;
+    src: url('../font/Roboto-Regular.ttf') format('trutype');
+}
+@font-face {
+    font-family: 'Philosopher';
+    font-weight: 700;
+    src: url('../font/Philosopher-Bold.ttf') format('trutype');
+}
